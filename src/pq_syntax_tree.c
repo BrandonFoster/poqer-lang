@@ -1,0 +1,12 @@
+/**
+ * @file pq_syntax_tree.c
+ * @author Brandon Foster
+ * @brief poqer-lang syntax tree implementation.
+ * the internal implementation of the pq_syntax_tree_* functions are documented below.
+ * 
+ * @version 0.001
+ * @date 11-6-2020
+ * @copyright Brandon Foster (c) 2020-2021
+ */
+
+#include "pq_syntax_tree.h"

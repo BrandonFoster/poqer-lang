@@ -1,0 +1,9 @@
+//Visual Studio Code Files
+.vscode/
+
+//IntelliJ IDEA Files
+.idea/
+
+//Program Executable (Will change later)
+program
+program.*
